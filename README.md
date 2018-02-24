@@ -1,4 +1,4 @@
-# brute-force-pass-crack
+# brute-force-pass-crack ![](https://img.shields.io/travis/rbstrachan/brute-force-pass-crack.svg)
 A program to crack your password via brute force!
 
 # Disclaimer
