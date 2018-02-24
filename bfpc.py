@@ -64,7 +64,7 @@ print(colored("Brute Force Password Cracker (BFPC) created by", "magenta"), colo
 wait(4)
 # print(colored("Here are a couple of fun passwords to try out: 1ifr, 2BvT, 3UL:, 4+!h, 61{J, 7k3), 8Dj8, 9Wzz, 0=P~.", "magenta"))
 # wait(6)
-doneBefore = input(colored("Have you ever used this program before?", "yellow"))
+doneBefore = input(colored("Have you ever used this program before?", "yellow")).lower()
 if doneBefore == "no" or doneBefore == "nope" or doneBefore == "definitely not" or doneBefore == "is 9 + 10 = 21?" or doneBefore == "nuh uh":
     wait(1)
     print(colored("Great! Welcome to CyanCoding's Brute Force Password Cracker!", "magenta"))
