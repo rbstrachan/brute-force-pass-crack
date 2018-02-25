@@ -1,4 +1,5 @@
-# brute-force-pass-crack ![](https://img.shields.io/travis/rbstrachan/brute-force-pass-crack.svg) ![](https://img.shields.io/codeclimate/maintainability/rbstrachan/brute-force-pass-crack.svg) ![](https://img.shields.io/github/issues/rbstrachan/brute-force-pass-crack.svg)
+# brute-force-pass-crack ![](https://img.shields.io/github/license/rbstrachan/brute-force-pass-crack.svg) ![](https://img.shields.io/travis/rbstrachan/brute-force-pass-crack.svg) ![](https://img.shields.io/codeclimate/maintainability/rbstrachan/brute-force-pass-crack.svg) ![](https://img.shields.io/github/issues/rbstrachan/brute-force-pass-crack.svg)
+
 A program to crack your password via brute force!
 
 # Disclaimer
